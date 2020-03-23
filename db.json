@@ -1,8 +1,6 @@
 {
   "observaciones": [
-    { "id": 12, "fechaEnvio": 2020-03-23, "horaEnvio": "17:03:20", "flujo":"entrada","valor":1,"trampa_id":13},
-    { "id": 13, "fechaEnvio": 2020-03-23, "horaEnvio": "17:04:20", "flujo":"entrada","valor":1,"trampa_id":13},
-    { "id": 14,  "fechaEnvio": 2020-03-23, "horaEnvio": "17:05:20", "flujo":"entrada","valor":1,"trampa_id":13}
+    { "id": 12, "fechaEnvio": 2020-03-23, "horaEnvio": "17:03:20", "flujo":"entrada","valor":1,"trampa_id":13}
   ],
   "profile": {
     "name": "typicode"
